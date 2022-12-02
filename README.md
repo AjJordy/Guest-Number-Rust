@@ -1,6 +1,7 @@
 # Guest-Number-Rust
 Simple project in Rust to learn about the lang
 
+Reference: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
 
 ```shell
 cargo --version
